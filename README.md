@@ -18,7 +18,7 @@ A **secure password generator Chrome extension** that creates random passwords a
 
 ## Screenshots
 
-![Extension Screenshot](assets/screenshot.png)
+![Extension Screenshot](https://res.cloudinary.com/dzdxnfmal/image/upload/v1732346489/my/r1gcqf4ihirxqcugicho.png)
 
 ## Installation
 
@@ -28,7 +28,7 @@ A **secure password generator Chrome extension** that creates random passwords a
 ### Steps
 1. Clone this repository or download the source code.
     ```bash
-    git clone https://github.com/your-username/password-generator-extension.git
+    git clone https://github.com/ravindulakmina/password-generator-extension.git
     cd password-generator-extension
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
